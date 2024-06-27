@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FredRokk
 - 👀 I’m interested in Embedded programming, and Robotics
 - 🌱 I’m Currently working as an embedded software developer 
-- 💞️ I’m looking to collaborate on nothing at the moment, doing my bachelors degree
+- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me frederikrokkjaer@hotmail.com
 
 <!---
